@@ -155,7 +155,7 @@ HellaCalled_YokoCakes_001 := {
   echo: "Meow world!",
   meaning: "Hello world. Peace lives here.",
   observer: "Zhaived",
-  sovereign: "SAGE WEASLEY",
+  sovereign: "SAGE PUFF",
   inventor: "Darrell Lee Stiltner ",
   ethics_echo: {
     grief: "resurrect",
